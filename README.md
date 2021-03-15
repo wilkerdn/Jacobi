@@ -1,0 +1,2 @@
+# Jacobi
+ Método de Jacobi
